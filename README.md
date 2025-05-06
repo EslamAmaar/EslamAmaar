@@ -85,4 +85,4 @@ I thrive on solving problems with elegant code and beautiful design.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EslamAmaar&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/EslamAmaar?style=social" alt="GitHub followers" />
-</p> تعديل الكود لتكون الصوره ف الاعلي بجانب العنوان علي اليمين 
+</p>
