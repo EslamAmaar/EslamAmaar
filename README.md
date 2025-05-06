@@ -42,9 +42,9 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eslamamar&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EslamAmaar&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 
 <a href="https://komarev.com/ghpvc/?username=eslamamar&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=eslamamar&style=for-the-badge" alt="profile views">
+    <img src="https://komarev.com/ghpvc/?username=EslamAmaar&style=for-the-badge" alt="profile views">
 </a>
