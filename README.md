@@ -1,3 +1,5 @@
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
 <h1 align="center">Hi there, I'm Eslam Amar 👋</h1>
 <h3 align="center">A Passionate Web Developer | Coffee Lover ☕</h3>
 
