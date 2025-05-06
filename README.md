@@ -62,9 +62,10 @@ I thrive on solving problems with elegant code and beautiful design.
 
 <p align="center">
   <a href="https://linkedin.com/in/eslam-amar" target="_blank">
-    <img src="https://img.shields.io/badge/-Eslam%20Amaar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Eslam%20Amaar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
 
 
 ---
