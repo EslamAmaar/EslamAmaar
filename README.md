@@ -1,11 +1,11 @@
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250"/>
+<img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF" width="250" style="float: right; margin-left: 20px;" />
 
 <h1 align="center">Hi there, I'm <span style="color:#f75c7e;">Eslam Amar</span> 👋</h1>
 <h3 align="center">💻 A Passionate Full-Stack Web Developer | ☕ Coffee Lover</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack%20Web%20Developer;MERN%20Stack%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack%20Web%20Developer;MERN%20Stack%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22" alt="Typing Text">
   </a>
 </p>
 
@@ -66,8 +66,6 @@ I thrive on solving problems with elegant code and beautiful design.
   </a>
 </p>
 
-
-
 ---
 
 ## 📊 GitHub Stats
@@ -76,7 +74,6 @@ I thrive on solving problems with elegant code and beautiful design.
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EslamAmaar&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
 -->
-
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EslamAmaar&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
